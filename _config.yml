@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "my portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Lee Ju Hyun"
 description              : "my portfolio"
 url                      : "https://leeeju.github.io/"
 baseurl                  : "https://blog.naver.com/02stu"
