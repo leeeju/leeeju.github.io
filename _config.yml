@@ -102,13 +102,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name            : "lee ju hyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "korea, 한국(韓國)"
   email            :
   links:
-    - label: "Email"
+    - label: "02stu4@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
@@ -120,7 +120,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "https://github.com/leeeju"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
