@@ -14,7 +14,7 @@ MY Web = https://leeeju.github.io/
 
 ```bash
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "my portfolio"      <---- 수정
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
